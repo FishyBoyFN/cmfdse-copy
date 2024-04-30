@@ -1,0 +1,52 @@
+body{
+    background-image: url("media/palya.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h3{
+    background-color: green;
+}
+table {
+background-color: green;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+border-radius: 10px;
+position: fixed;
+top: 10px;
+left: -450px;
+width: 500px;
+}
+td.utolso {
+width: 30px;
+}
+img.menuikon {
+width: 45px;
+}
+table:hover {
+left: 10px;
+}
+a:hover {
+color: aqua;
+}
+h1{
+text-align: center;
+font-size: 350%;
+color: darkgreen;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+a:active{
+    text-decoration: none;
+    color: black;
+}
